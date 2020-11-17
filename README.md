@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [DL](https://nndl.github.io/)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/linwhitehat/linwhitehat/issues)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&theme=prussian" alt="Lin's github stats" />
