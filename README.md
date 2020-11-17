@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning DL
+- 🌱 I’m currently learning [DL](https://nndl.github.io/)
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
