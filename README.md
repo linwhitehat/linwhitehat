@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [DL](https://nndl.github.io/)
-- 💬 Ask me about anything [here](https://github.com/linwhitehat/linwhitehat/issues)
+- 🔭 I’m currently working on Cybersecurity and Stable Learning (SL);
+- 🌱 I’m currently learning Pre-training and Causal Inference;
+- 👯 I’m looking to collaborate on Cybersecurity and SL;
+- 😄 Pronouns: [DL](https://nndl.github.io/), Encrypted Traffic Analysis (ETA);
+- 💬 Ask me about anything [here](https://github.com/linwhitehat/linwhitehat/issues).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&theme=dracula" alt="Lin's github stats" />
