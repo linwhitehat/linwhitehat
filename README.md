@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lin!](https://linwhitehat.github.io) 👋
 
-Hi, I'm Lin XJ, a master student studying Cyber Behavior from China.
+Hi, I'm Lin, a master student studying Cyber Behavior from China.
 
 <!--
 **Loyalsoldier/Loyalsoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
