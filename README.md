@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Cybersecurity and Stable Learning (SL);
+- 🔭 I’m currently working on Cybersecurity and Stable Learning;
 - 🌱 I’m currently learning Pre-training and Causal Inference;
-- 👯 I’m looking to collaborate on Traffic Analysis and SL;
+- 👯 I’m looking to collaborate on Traffic Analysis and Stable Learning;
 - 😄 Pronouns: [DL](https://nndl.github.io/), Encrypted Traffic Analysis (ETA);
 - 💬 Ask me about anything [here](https://github.com/linwhitehat/linwhitehat/issues).
 
