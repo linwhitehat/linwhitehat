@@ -1,6 +1,6 @@
 ### Hi there, welcome to [Lin!](https://linwhitehat.github.io) 👋
 
-I'm Lin, a Ph.D. studying Cybersecurity in UCAS.
+I'm Lin, a Ph.D. studying Cybersecurity in IIE-CAS/UCAS.
 
 <!--
 **Loyalsoldier/Loyalsoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
