@@ -1,3 +1,7 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Lin's github stats" />
+</a>
+
 ### Hi there, welcome to [Lin!](https://linwhitehat.github.io) 👋
 
 I'm Lin, a Ph.D. studying Cybersecurity in IIE-CAS/UCAS.
@@ -17,15 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Cybersecurity and Stable Learning;
-- 🌱 I’m currently learning Pre-training and Causal Inference;
-- 👯 I’m looking to collaborate on Traffic Analysis and Stable Learning;
-- 😄 Pronouns: [DL](https://nndl.github.io/), Encrypted Traffic Analysis (ETA);
+- 🔭 I’m currently working on Security and Traffic Analysis;
+- 😄 Pronouns: [DL](https://nndl.github.io/), Encrypted Traffic Analysis;
 - 💬 Ask me about anything [here](https://github.com/linwhitehat/linwhitehat/issues).
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&theme=prussian" alt="Lin's github stats" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&theme=prussian" alt="Lin's github stats" />
 </a>
+-->
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
