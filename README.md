@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Security and Traffic Analysis;
+- 🔭 I’m currently working on Network Security and Traffic Analysis;
 - 😄 Pronouns: [DL](https://nndl.github.io/), Encrypted Traffic Analysis;
 - 💬 Ask me about anything [here](https://github.com/linwhitehat/linwhitehat/issues).
 <!--
