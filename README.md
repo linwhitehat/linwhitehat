@@ -2,7 +2,7 @@
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Lin's github stats" />
 </a>
 
-### Hi there, welcome to [Lin!]() 👋
+### Hi there, welcome to Lin! 👋
 
 I'm Lin, a Ph.D. studying Cybersecurity in IIE-CAS/UCAS.
 
