@@ -7,8 +7,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=linwhitehat">
   <img src="https://img.shields.io/badge/D.Cs.-Univ.%20CAS%20(2018--now)-brightgreen?style=flat-square&color=181717&labelColor=499DF1">
 </p>
-  
-I'm Lin, a Ph.D. studying Cybersecurity in IIE-CAS/UCAS.
+
+A Ph.D. studying CyberSecurity in IIE-CAS/UCAS.
 
 <!--
 ### Hi there, welcome to Lin! 👋 
