@@ -1,4 +1,4 @@
-<h2 align="center"> Greetings! 👋 I'm Xin-jie LIN (林鑫杰 in Chinese) </h2>
+<h2 align="center"> Greetings! 👋 I'm 𝑋𝑖𝑛𝑗𝑖𝑒 𝐿𝐼𝑁. </h2>
 
 <p align="center">
   <a href="https://github.com/linwhitehat">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Network Security** and **Traffic Analysis**;
 - 😄 **Pronouns**: **Encrypted Traffic Identification** and **Stable Learning**;
 - 💬 **Ask me about anything** [here](https://github.com/linwhitehat/linwhitehat/issues).
-- 📫 **How to reach me**: [eric_lin_cn@outlook.com](mailto:eric_lin_cn@outlook.com)
+- 📫 **How to reach me**: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
 
 <table style="border:none;font-size:0.92em;">  
   <tr>
