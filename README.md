@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 </table>
 
 <!--
+<a href="https://clustrmaps.com/site/1br7l"  title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=_as-XkkjcXIuqsKpOhd8t-KNXdQFwAk9XjTptcKMNV8&cl=ffffff" /></a>
+-->
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=linwhitehat&show_icons=true&include_all_commits=true&theme=prussian" alt="Lin's github stats" />
 </a>
