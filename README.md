@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Network Security** and **Traffic Analysis**;
-- 😄 **Pronouns**: **Encrypted Traffic Identification** and **Stable Learning**;
+- 😄 **Pronouns**: **Encrypted Traffic Identification** and **Out-of-Distribution Generalization**;
 - 💬 **Ask me about anything** [here](https://github.com/linwhitehat/linwhitehat/issues).
 - 📫 **How to reach me**: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
 
