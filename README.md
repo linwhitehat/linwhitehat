@@ -4,7 +4,7 @@
   <a href="https://github.com/linwhitehat">
     <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinwhitehat&labelColor=grey&color=181717&logo=github&longCache=true&style=flat-square&suffix=%20Followers">
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=linwhitehat">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=linwhitehat.visitor-badge">
   <img src="https://img.shields.io/badge/D.Cs.-Univ.%20CAS%20(2018--now)-brightgreen?style=flat-square&color=181717&labelColor=499DF1">
 </p>
 
