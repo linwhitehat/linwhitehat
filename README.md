@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/D.Cs.-Univ.%20CAS%20-brightgreen?style=flat-square&color=181717&labelColor=499DF1">
 </p>
 
-An AR at ZGCL.
+An AR at Zhongguancun Laboratory.
 
 <!--
 ### Hi there, welcome to Lin! 👋 
