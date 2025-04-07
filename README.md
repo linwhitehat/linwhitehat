@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **AI Security** and **Traffic Analysis**;
 - 😄 **Pronouns**: **Encrypted Traffic Identification** and **LLM**;
-- 💬 **Ask me about anything** [here](https://github.com/linwhitehat/linwhitehat/issues).
 - 📫 **How to reach me**: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
 
 ![](https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg)
