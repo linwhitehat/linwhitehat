@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **About ME**
 
-- 🔭 I’m currently working on **AI Security** and **Traffic Analysis**
+- 🔭 I’m currently working on **LLM Security**
   
 - 😄 Pronouns: **Network Traffic Analysis** and **LLM**
   
