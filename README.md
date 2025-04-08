@@ -1,14 +1,12 @@
 <h2 align="center"> Greetings! 👋 I'm 𝑋𝑖𝑛𝑗𝑖𝑒 𝐿𝐼𝑁. </h2>
 
 <p align="center">
-  <a href="https://github.com/linwhitehat">
-    <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinwhitehat&labelColor=grey&color=181717&logo=github&longCache=true&style=flat-square&suffix=%20Followers">
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinwhitehat&labelColor=grey&color=181717&logo=github&longCache=true&style=flat-square&suffix=%20Followers">
   <img src="https://komarev.com/ghpvc/?username=linwhitehat&label=Profile%20views&color=181717&style=flat">
   <img src="https://img.shields.io/badge/D.Cs.-Univ.%20CAS%20-brightgreen?style=flat-square&color=181717&labelColor=499DF1">
 </p>
 
-An AR at Zhongguancun Laboratory.
+I'm an AR at Zhongguancun Laboratory 🇨🇳
 
 <!--
 ### Hi there, welcome to Lin! 👋 
@@ -27,28 +25,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **AI Security** and **Traffic Analysis**;
-- 😄 **Pronouns**: **Encrypted Traffic Identification** and **LLM**;
-- 📫 **How to reach me**: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
+**About ME**
 
-![](https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg)
+- 🔭 I’m currently working on **AI Security** and **Traffic Analysis**
+  
+- 😄 Pronouns: **Network Traffic Analysis** and **LLM**
+  
+- 📫 How to reach me: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
+
+<code><img height="20" alt="Network" src="https://static-00.iconduck.com/assets.00/cloud-computer-network-icon-1024x1024-fknvaqvi.png"></code>
+<code><img height="20" alt="Security" src="https://static-00.iconduck.com/assets.00/continuous-security-icon-952x1024-ggrwl0vy.png"></code>
+<code><img height="20" alt="AI" src="https://static-00.iconduck.com/assets.00/artificial-intelligence-illustration-1024x1024-5mle8rd3.png"></code>
+<code><img height="20" alt="pytorch" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png"></code>
+<code><img height="20" alt="python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
+<code><img height="20" alt="wireshark" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x512-a8re3v18.png"></code>
+<code><img height="20" alt="scapy" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scapy/scapy.png"></code>
+
+<p>
+  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="250"/>
+  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" height="250"/>
+</p>
 
 <!--
-<table style="border:none;font-size:0.92em;">  
-  <tr>
-    <td style="border:none;" align="center" colspan=2>
-    <font style="font-size:25px"><strong> Github Stats </strong></font>
-    </td>
-  </tr>
-  <tr>
-  <td style="border:none;" align="center">
-  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg">
-  </td>
-  <td style="border:none;" align="center">
-  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg">
-  </td>
-  </tr>
-</table>
+![](https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg)
 -->
 
 <!--
