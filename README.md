@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **LLM Security**
   
-- 😄 Pronouns: **Network Traffic Analysis** and **LLM**
+- 😄 Pronouns: **Network Security** and **AI+**
   
 - 📫 How to reach me: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
 
