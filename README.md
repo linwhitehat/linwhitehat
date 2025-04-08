@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/D.Cs.-Univ.%20CAS%20-brightgreen?style=flat-square&color=181717&labelColor=499DF1">
 </p>
 
-I'm an AR at Zhongguancun Laboratory 🇨🇳
-
 <!--
 ### Hi there, welcome to Lin! 👋 
 
@@ -25,26 +23,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About ME**
+<div align="center">
 
-- 🔭 I’m currently working on **LLM Security**
+  **About ME**
+
+  ✨ I'm an AR at Zhongguancun Laboratory 🇨🇳
+
+ 🔭 I’m currently working on **LLM Security**
   
-- 😄 Pronouns: **Network Security** and **AI+**
+ 😄 Pronouns: **Network Security** and **AI+**
   
-- 📫 How to reach me: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
+ 📫 How to reach me: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
 
-<code><img height="20" alt="Network" src="https://static-00.iconduck.com/assets.00/cloud-computer-network-icon-1024x1024-fknvaqvi.png"></code>
-<code><img height="20" alt="Security" src="https://static-00.iconduck.com/assets.00/continuous-security-icon-952x1024-ggrwl0vy.png"></code>
-<code><img height="20" alt="AI" src="https://static-00.iconduck.com/assets.00/artificial-intelligence-illustration-1024x1024-5mle8rd3.png"></code>
-<code><img height="20" alt="pytorch" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png"></code>
-<code><img height="20" alt="python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
-<code><img height="20" alt="wireshark" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x512-a8re3v18.png"></code>
-<code><img height="20" alt="scapy" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scapy/scapy.png"></code>
+<code><img height="25" alt="Network" src="https://static-00.iconduck.com/assets.00/cloud-computer-network-icon-512x512-63dzn1ua.png"></code>
+<code><img height="25" alt="Security" src="https://static-00.iconduck.com/assets.00/security-icon-512x512-j4t2piwz.png"></code>
+<code><img height="25" alt="AI" src="https://cdn-icons-png.freepik.com/512/8618/8618875.png"></code>
+<code><img height="25" alt="pytorch" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png"></code>
+<code><img height="25" alt="python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
+<code><img height="25" alt="wireshark" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x512-a8re3v18.png"></code>
+<code><img height="25" alt="scapy" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scapy/scapy.png"></code>
+</div>
 
-<p>
-  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="230"/>
-  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" height="230"/>
-</p>
+<table align="center" >
+  <tbody>
+  <tr>
+    <td colspan="3" ><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg">
+        <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="100%"/>
+      </picture>
+    </a></td>
+    <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg">
+        <img height="100%" src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" />
+      </picture>
+    </a></td>
+  </tr>
+</tbody>
+</table>
 
 <!--
 ![](https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg)
