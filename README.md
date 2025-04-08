@@ -42,25 +42,25 @@ Here are some ideas to get you started:
 <code><img height="25" alt="python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
 <code><img height="25" alt="wireshark" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x512-a8re3v18.png"></code>
 <code><img height="25" alt="scapy" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scapy/scapy.png"></code>
+
 </div>
 
 <table align="center" >
-  <tbody>
+
   <tr>
-    <td colspan="5" ><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="3" ><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg">
         <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="100%"/>
       </picture>
     </a></td>
-    <td colspan="5"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg">
         <img height="100%" src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" />
       </picture>
     </a></td>
   </tr>
-</tbody>
 </table>
 
 <!--
