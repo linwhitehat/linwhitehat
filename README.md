@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <table align="center" >
   <tbody>
   <tr>
-    <td colspan="3" ><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="5" ><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg">
         <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="100%"/>
       </picture>
     </a></td>
-    <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <td colspan="5"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg">
         <img height="100%" src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" />
