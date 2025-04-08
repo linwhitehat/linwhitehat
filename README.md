@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <code><img height="20" alt="scapy" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scapy/scapy.png"></code>
 
 <p>
-  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="250"/>
-  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" height="250"/>
+  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg" height="230"/>
+  <img src="https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/languages.svg" height="230"/>
 </p>
 
 <!--
