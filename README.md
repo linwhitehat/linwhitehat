@@ -35,13 +35,13 @@ Here are some ideas to get you started:
   
  📫 How to reach me: [@𝑂𝑢𝑡𝑙𝑜𝑜𝑘](mailto:eric_lin_cn@outlook.com)
 
-<a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank"> <code><img height="25" alt="Network" src="https://static-00.iconduck.com/assets.00/cloud-computer-network-icon-512x512-63dzn1ua.png"></code></a>
-<a href="https://en.wikipedia.org/wiki/Network_security" target="_blank"> <code><img height="25" alt="Security" src="https://static-00.iconduck.com/assets.00/security-icon-512x512-j4t2piwz.png"></code></a>
-<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank"> <code><img height="25" alt="AI" src="https://cdn-icons-png.freepik.com/512/8618/8618875.png"></code></a>
-<a href="https://pytorch.org/" target="_blank"> <code><img height="25" alt="pytorch" src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png"></code></a>
-<a href="https://www.python.org" target="_blank"> <code><img height="25" alt="python" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code></a>
-<a href="https://www.wireshark.org/" target="_blank"> <code><img height="25" alt="wireshark" src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x512-a8re3v18.png"></code></a>
-<a href="https://scapy.net/" target="_blank"> <code><img height="25" alt="scapy" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scapy/scapy.png"></code></a>
+<a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank"> <code><img height="25" alt="Network" src="./Figs/network.png"></code></a>
+<a href="https://en.wikipedia.org/wiki/Network_security" target="_blank"> <code><img height="25" alt="Security" src="./Figs/security.png"></code></a>
+<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank"> <code><img height="25" alt="AI" src="./Figs/ai.png"></code></a>
+<a href="https://pytorch.org/" target="_blank"> <code><img height="25" alt="pytorch" src="./Figs/torch.png"></code></a>
+<a href="https://www.python.org" target="_blank"> <code><img height="25" alt="python" src="./Figs/py.png"></code></a>
+<a href="https://www.wireshark.org/" target="_blank"> <code><img height="25" alt="wireshark" src="./Figs/shark.png"></code></a>
+<a href="https://scapy.net/" target="_blank"> <code><img height="25" alt="scapy" src="./Figs/scapy.png"></code></a>
 
 </div>
 
