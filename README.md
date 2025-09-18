@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 <a href="https://scapy.net/" target="_blank"> <code><img height="25" alt="scapy" src="./Figs/scapy.png"></code></a>
 
 </div>
-
+ <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=linwhitehat&rank_icon=github&show_icons=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linwhitehat&langs_count=30&layout=compact&theme=buefy&hide_border=true" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linwhitehat&langs_count=30&layout=compact&theme=buefy&hide_border=true" height="180"/>
 </p>
+ -->
 
 <!--
 ![](https://raw.githubusercontent.com/linwhitehat/github-stats-transparent/output/generated/overview.svg)
